@@ -1,7 +1,8 @@
 # Edward-v
 
 > 一个 vue 组件，用于裁剪并上传图片，支持自定义裁剪长宽比例，固定裁剪后上传图片像素，没有额外插件依赖的轻量级插件
-> ![Uploading image.png…]()
+> ![image](https://user-images.githubusercontent.com/26054388/113959964-4e1c0280-9856-11eb-8a7b-19f8709fa23c.png)
+
 
 
 ## 安装
